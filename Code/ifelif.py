@@ -1,0 +1,14 @@
+# If ... Elif ... Else ... EndIf
+
+a = 2
+b = 4
+print ("a is", a, "b is",b)
+
+if a > b :
+    print (a, " is greater than ", b)
+elif a == b :
+    print (a, " equals ", b)
+else :
+    print (a, " is less than ", b)
+
+    
